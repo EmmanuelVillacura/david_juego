@@ -59,10 +59,10 @@ const Inicio = () => {
           className="text-center"
         >
           <h2 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 bg-clip-text text-transparent mb-6">
-            ¿Por Qué Neon Rush?
+            ¿Por Qué Descargar el juego?
           </h2>
           <p className="text-white/80 text-lg max-w-3xl mx-auto">
-            Gráficos neón que te dejan ciego de lo épicos, jugabilidad adictiva como un loop infinito y una historia que te hace odiar el botón de pausa. Ideal para gamers que duermen poco y sueñan con victorias.
+            Gráficos que te dejan ciego de lo épicos, jugabilidad adictiva como un loop infinito y una historia que te hace odiar el botón de pausa. Ideal para gamers que duermen poco y sueñan con victorias.
           </p>
         </motion.div>
       </div>
